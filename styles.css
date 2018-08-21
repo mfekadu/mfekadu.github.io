@@ -1,5 +1,7 @@
 html {
   font: 1.1em/1.2 "Product Sans", "Open Sans", "Roboto", "Lato", sans-serif;
+  background-color: rgba(92,149,199,1); /* a kind of blue */
+  color: rgba(251, 251, 255, 1); /* slight off white */
 }
 
 img {
@@ -8,4 +10,14 @@ img {
 
 body {
   margin: 0;
+}
+
+/* link color */
+a {
+  color: rgba(17,17,17,1);
+}
+
+/* link (hover) color */
+a:hover {
+  color: rgba(68,68,68,1);
 }
