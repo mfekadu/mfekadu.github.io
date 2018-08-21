@@ -1,0 +1,11 @@
+html {
+  font: 1.1em/1.2 "Product Sans", "Open Sans", "Roboto", "Lato", sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+body {
+  margin: 0;
+}
